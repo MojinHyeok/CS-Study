@@ -65,15 +65,7 @@
 
 P Implication Q ->조건 ,결과
 
-P	q	p->q
-
-T	T	T
-
-T	F	F
-
-F	T	T
-
-F	F	T
+![image](https://user-images.githubusercontent.com/76107714/124912034-6ef81d80-e028-11eb-9bc1-038d1bf974bc.png)
 6.Biconditinal
 
 P Q 둘다 일치할때에만 참을 반환합니다
