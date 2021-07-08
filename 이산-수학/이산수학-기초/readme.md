@@ -29,6 +29,8 @@
 연산자는 명제를 연산하기 위한 도구입니다.
 
  
+![image](https://user-images.githubusercontent.com/76107714/124911933-4c660480-e028-11eb-9d31-489c188a872e.png)
+
 
 1. Not
 
@@ -64,9 +66,13 @@
 P Implication Q ->조건 ,결과
 
 P	q	p->q
+
 T	T	T
+
 T	F	F
+
 F	T	T
+
 F	F	T
 6.Biconditinal
 
